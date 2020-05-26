@@ -1,0 +1,62 @@
+ /* Change body background */
+.main {
+    background-color: #f0f0f0;
+    background-attachment: fixed;
+}
+ /* Change sitename style */
+.hdr h1, .hdr h1 a {
+    color: #29466B;
+    font: bold 24pt/26pt Tahoma,sans-serif;
+}
+ /* Change default headlines */
+.main .widget .headline {
+    color: #555555;
+    font: bold 13px/15px Tahoma,sans-serif;
+}
+ /* Change first line of headline */
+.main .widget .headline:first-line {
+    color: #145A7C;
+    font: bold 17px/18px Tahoma,sans-serif;
+}
+ /* Change splash headline */
+.main .splash .widget .headline,
+.main .splash .widget .headline:first-line {
+   color: #145A7C;
+   font: bold 26px/29px Tahoma,sans-serif;
+}
+ /* Change giant splash headline */
+.main .giant-splash .widget .headline {
+   color: #555555;
+   font: bold 48px/55px  Tahoma, Arial, sans-serif;
+}
+.main .giant-splash .widget .headline:first-line {
+   color: #145A7C;
+   font: bold 55px/60px Tahoma,sans-serif;
+}
+ /* Change post headline */
+.main .article-content h1, 
+.main .article-content h1 a {
+    color: #145A7C;
+    font: bold 36px/39px Tahoma,sans-serif;
+}
+ /* Change post body font */
+.article-body, 
+.article-body p {
+    color: #4D4D4D;
+    font: bold 15px/21px Tahoma,sans-serif;
+}
+ /* Change Twitter header */
+.author-head .user .name  {
+    color: #5C5C5C;
+    font: 11px/10px Tahoma,sans-serif;
+}
+ .author-head .user .name .screen {
+    color: #B9B9B9;
+    font: 10px/12px Tahoma,sans-serif;
+}
+.widget:hover .widget-details .widget-date, .widget:hover .user .name .screen {
+    color: #505050;
+}
+ .widget-details .widget-date {
+    color: #B9B9B9;
+}

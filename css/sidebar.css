@@ -1,0 +1,163 @@
+
+.info {
+	display: none;
+	padding: 10px 5px 150px 0;
+}
+
+.active {
+	color: red !important;
+}
+
+.nav-side-menu {
+	overflow: auto;
+	background-color: none;
+	position: fixed;
+	top: 0px;
+	width: 230px;
+	height: 100%;
+}
+
+.nav-side-menu .toggle-btn {
+	display: none;
+}
+
+.nav-side-menu ul,
+.nav-side-menu li {
+	list-style: none;
+	padding: 0px;
+	margin: 0px;
+	line-height: 35px;
+	cursor: pointer;
+}
+
+.nav-side-menu ul :not(collapsed) .arrow:before,
+.nav-side-menu li :not(collapsed) .arrow:before {
+  font-family: FontAwesome;
+  content: "\f078";
+  display: inline-block;
+  padding-left: 10px;
+  padding-right: 10px;
+  vertical-align: middle;
+  float: right;
+}
+
+.nav-side-menu li {
+  padding-left: 0px;
+
+
+}
+.nav-side-menu li a {
+  text-decoration: none;
+  color: #999;
+}
+
+.nav-side-menu li a:hover {
+  color: red;
+  -webkit-transition: all 0.5s ease;
+  -moz-transition: all 0.5s ease;
+  -o-transition: all 0.5s ease;
+  -ms-transition: all 0.5s ease;
+  transition: all 0.5s ease;
+}
+
+.nav-side-menu li > a:focus {
+  color: #999;
+  
+}
+
+.nav-side-menu li a i {
+  padding-left: 10px;
+  width: 20px;
+  padding-right: 20px;
+}
+
+@media (max-width: 991px) {
+	.info {
+		padding: 15px 15px 0px 15px;
+	}
+
+  .nav-side-menu .brand {
+  	background-color: #f8f8f8;
+	  
+}
+  .nav-side-menu {
+    position: relative;
+    width: 100%;
+    margin-bottom: 15px;
+
+  }
+  .nav-side-menu .toggle-btn {
+    display: block;
+    cursor: pointer;
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    z-index: 10 !important;
+    padding: 3px;
+    color: red;
+    width: 40px;
+    text-align: center;
+    
+  }
+
+  .nav-side-menu .toggle-btn  {
+   -webkit-transition-duration: 1s;
+    -moz-transition-duration: 1s;
+    -o-transition-duration: 1s;
+    transition-duration: 1s;
+    -webkit-transition-property: -webkit-transform;
+    -moz-transition-property: -moz-transform;
+    -o-transition-property: -o-transform;
+    transition-property: transform;
+  }
+
+
+  .brand {
+    text-align: left !important;
+    font-size: 14px;
+    padding-left: 20px;
+    line-height: 51px !important;
+  }
+
+  .nav-side-menu ul, .nav-side-menu li {
+	margin-left: 10px;
+  }
+}
+
+
+@media (min-width: 992px) {
+.nav-side-menu .brand {
+  font-weight: 500;
+  background-color: none;
+  line-height: 50px;
+  display: block;
+  font-size: 18px;
+}
+
+	.nav-side-menu {
+		margin-top: 115px;
+    padding-bottom: 150px;
+	}
+
+  	.nav-side-menu .menu-list .menu-content {
+    	display: block;
+  	}
+}
+
+@media (min-width: 1200px) {
+	.nav-side-menu {
+	width: 275px;
+	
+}
+
+
+@media (max-width: 767px) {
+	.nav-side-menu {
+		margin-top: -25px;
+		margin-bottom: 15px;
+	}
+
+}
+
+
+
