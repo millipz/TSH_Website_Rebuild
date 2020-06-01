@@ -1,3 +1,5 @@
 collections:
+  staff:
+    output: false
   projects:
     output: true

@@ -4,22 +4,22 @@ short-title: Jubilee House
 fileref: jubilee
 sector: education
 layout: default
-featureimg: /img/projects/jubilee-feature.jpg
+featureimg: img/projects/jubilee-feature.jpg
 
 pictures:
-  - url: /img/projects/jubilee-1.jpg
+  - url: ../img/projects/jubilee-1.jpg
     width: wide
-  - url: /img/projects/jubilee-2.jpg
+  - url: ../img/projects/jubilee-2.jpg
     width: narrow
-  - url: /img/projects/jubilee-3.jpg
+  - url: ../img/projects/jubilee-3.jpg
     width: narrow
-  - url: /img/projects/jubilee-4.jpg
+  - url: ../img/projects/jubilee-4.jpg
     width: wide
-  - url: /img/projects/jubilee-5.jpg
+  - url: ../img/projects/jubilee-5.jpg
     width: narrow
-  - url: /img/projects/jubilee-6.jpg
+  - url: ../img/projects/jubilee-6.jpg
     width: narrow
-  - url: /img/projects/jubilee-7.jpg
+  - url: ../img/projects/jubilee-7.jpg
     width: wide
 
 ---
