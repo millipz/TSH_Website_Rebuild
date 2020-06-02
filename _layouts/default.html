@@ -72,53 +72,50 @@
         <!-- Content -->
 
         <div id="main">
-            <div class="wap">
-                <div class="container">
+
+            {% for pic in page.pictures %}
+            {% if forloop.first == true %}
+            <img class="img-responsive firstimg" src="{{ pic.url }}" />
+            {% else %}
+            {% endif %}
+            {% endfor %}
+
+            <div class="container">
+
+                <!-- Info pannel -->
+
+                <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+
+                    <ol class="breadcrumb">
+                        <li><a href="../projects-page">Projects</a></li>
+                        <li class="active">{{ page.short-title }}</li>
+                    </ol>
+
+                    <h4 class="pad">{{ page.title }}</h4>
+                    {{ content }}
+
+                </div>
+
+                <!-- Images -->
+
+                <div class="imagez col-lg-8 col-md-8 col-sm-12 col-xs-12">
 
                     {% for pic in page.pictures %}
                     {% if forloop.first == true %}
-                    <div class="propad col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                        <img class="img-responsive" src="{{ pic.url }}" />
-                    </div>
                     {% else %}
-                    {% endif %}
-                    {% endfor %}
-
-                    <!-- Info pannel -->
-
-                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-
-                        <ol class="breadcrumb">
-                            <li><a href="../projects-page">Projects</a></li>
-                            <li class="active">{{ page.short-title }}</li>
-                        </ol>
-
-                        <h4 class="pad">{{ page.title }}</h4>
-                        {{ content }}
-
-                    </div>
-
-                    <!-- Images -->
-
-                    <div class="imagez col-lg-8 col-md-8 col-sm-12 col-xs-12">
-
-                        {% for pic in page.pictures %}
-                        {% if forloop.first == true %}
+                    {% if pic.width == "narrow" %}
+                    <div class="propad col-lg-6 col-md-6 col-sm-6 col-xs-6">
                         {% else %}
-                        {% if pic.width == "narrow" %}
-                        <div class="propad col-lg-6 col-md-6 col-sm-6 col-xs-6">
-                            {% else %}
-                            <div class="propad col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                                {% endif %}
-                                <img class="img-responsive" src="{{ pic.url }}" />
-                            </div>
+                        <div class="propad col-lg-12 col-md-12 col-sm-12 col-xs-12">
                             {% endif %}
-                            {% endfor %}
+                            <img class="img-responsive" src="{{ pic.url }}" />
                         </div>
-
-                        <!-- Content Pannel closing -->
-
+                        {% endif %}
+                        {% endfor %}
                     </div>
+
+                    <!-- Content Pannel closing -->
+
                 </div>
             </div>
 

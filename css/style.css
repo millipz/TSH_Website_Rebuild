@@ -811,6 +811,10 @@ hr {
     width: auto;
   }
 
+  .firstimg {
+    padding-top: 75px;
+  }
+
 }
 
 @media (min-width: 991px) {
@@ -886,6 +890,11 @@ hr {
   }
 
   .tumblr_caption p {}
+
+  .firstimg {
+    padding-bottom: 10px;
+    width: 100%;
+  }
 
 }
 
