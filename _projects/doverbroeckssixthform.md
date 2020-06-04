@@ -1,13 +1,13 @@
 ---
-title: d'Overbroeck's-Sixth-Form Centre
-short-title: d'Overbroeck's Sixth-Form
+title: d'Overbroeck's Sixth-Form Centre
+short-title: d'Overbroeck's Sixth-Form Centre
 fileref: doverbroeckssixthform
 sector: education
 layout: default
-featureimg: "img/projects/doverbroeckssixthform-feature.jpg"
+featureimg: img/projects/doverbroeckssixthform-feature.jpg
 
 pictures:
-  - url: "../img/projects/doverbroeckssixthform-1.jpg"
+  - url: ../img/projects/doverbroeckssixthform-1.jpg
     width: wide
   - url: ../img/projects/doverbroeckssixthform-2.jpg
     width: narrow
