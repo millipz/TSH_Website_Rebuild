@@ -32,6 +32,10 @@ blockquote {
   //  height: 28em;
 }
 
+.twitter-container {
+  max-width: 600px;
+}
+
 /* nav bar */
 
 .active {

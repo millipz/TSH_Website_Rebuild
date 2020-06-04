@@ -1,6 +1,6 @@
 ---
 name: Sarah Drew
 role: Associate and Practice Manager
-qualifications: "&nbsp"
+qualifications: AATQB
 picture: img/about/profile_sarahdrew.jpg
 ---
