@@ -1,5 +1,5 @@
 ---
-title: St. Edward�s School � The Quad Project
+title: St. Edward's School The Quad Project
 short-title: Quad
 fileref: quad
 sector: education
