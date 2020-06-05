@@ -230,7 +230,7 @@ blockquote {
   background-repeat: none;
   opacity: 0;
   z-index: 0;
-  animation: imageAnimation 30s linear infinite 0s;
+  animation: imageAnimation 60s linear infinite 0s;
 }
 
 .cb-slideshow li div {
@@ -243,12 +243,19 @@ blockquote {
   padding: 2em;
   opacity: 0;
   color: #fff;
-  animation: titleAnimation 30s linear infinite 0s;
+  animation: titleAnimation 60s linear infinite 0s;
 }
 
 .cb-slideshow li div h3,
 .cb-slideshow li div p {
   color: white;
+  z-index: 1;
+}
+
+.cb-slideshow li div a:hover {
+  color: white;
+  text-decoration: none;
+  z-index: 1;
 }
 
 .cb-slideshow li:nth-child(1) span {
@@ -257,48 +264,48 @@ blockquote {
 
 .cb-slideshow li:nth-child(2) span {
   background-image: url(../img/slide-02.jpg);
-  animation-delay: 5s;
+  animation-delay: 10s;
 }
 
 .cb-slideshow li:nth-child(3) span {
   background-image: url(../img/slide-03.jpg);
-  animation-delay: 10s;
+  animation-delay: 20s;
 }
 
 .cb-slideshow li:nth-child(4) span {
   background-image: url(../img/slide-04.jpg);
-  animation-delay: 15s;
+  animation-delay: 30s;
 }
 
 .cb-slideshow li:nth-child(5) span {
   background-image: url(../img/slide-05.jpg);
-  animation-delay: 20s;
+  animation-delay: 40s;
 }
 
 .cb-slideshow li:nth-child(6) span {
   background-image: url(../img/slide-06.jpg);
-  animation-delay: 25s;
+  animation-delay: 50s;
 }
 
 
 .cb-slideshow li:nth-child(2) div {
-  animation-delay: 5s;
-}
-
-.cb-slideshow li:nth-child(3) div {
   animation-delay: 10s;
 }
 
-.cb-slideshow li:nth-child(4) div {
-  animation-delay: 15s;
-}
-
-.cb-slideshow li:nth-child(5) div {
+.cb-slideshow li:nth-child(3) div {
   animation-delay: 20s;
 }
 
+.cb-slideshow li:nth-child(4) div {
+  animation-delay: 30s;
+}
+
+.cb-slideshow li:nth-child(5) div {
+  animation-delay: 40s;
+}
+
 .cb-slideshow li:nth-child(6) div {
-  animation-delay: 25s;
+  animation-delay: 50s;
 }
 
 @keyframes imageAnimation {
@@ -307,16 +314,16 @@ blockquote {
     animation-timing-function: ease-in;
   }
 
-  15% {
+  7.5% {
     opacity: 1;
     animation-timing-function: ease-out;
   }
 
-  25% {
+  20% {
     opacity: 1
   }
 
-  33% {
+  25% {
     opacity: 0
   }
 
@@ -327,23 +334,28 @@ blockquote {
 
 @keyframes titleAnimation {
   0% {
-    opacity: 0
+    opacity: 0;
+    z-index: 1
   }
 
-  15% {
-    opacity: 1
+  7.5% {
+    opacity: 1;
+    z-index: 200
+  }
+
+  20% {
+    opacity: 1;
+    z-index: 200
   }
 
   25% {
-    opacity: 1
-  }
-
-  33% {
-    opacity: 0
+    opacity: 0;
+    z-index: 1
   }
 
   100% {
-    opacity: 0
+    opacity: 0;
+    z-index: 1
   }
 }
 
