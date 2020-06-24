@@ -1,4 +1,5 @@
----title: Rugby School-Sheriff House
+---
+title: Rugby School-Sheriff House
 short-title: Sheriff House
 fileref: sheriff
 sector: education

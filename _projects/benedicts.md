@@ -1,4 +1,5 @@
----title: St. Benedict's Catholic High School-Sixth Form Centre
+---
+title: St. Benedict's Catholic High School-Sixth Form Centre
 short-title: St. Benedict's
 fileref: benedicts
 sector: education
@@ -25,9 +26,9 @@ pictures:
 
 ---
 
-St Benedict’s School is a voluntary-aided, co-educational Catholic high school, founded in 1963. Being an ‘outstanding school,’ St. Benedict’s was able to apply for a sixth form centre under the presumption process to the Learning and Skills Council (LSC) and Local Authority.
+St Benedict's School is a voluntary-aided, co-educational Catholic high school, founded in 1963. Being an 'outstanding school', St. Benedict's was able to apply for a sixth form centre under the presumption process to the Learning and Skills Council (LSC) and Local Authority.
 
-The bid, for which TSH Architects prepared scheme designs, was successful and the resulting Sixth Form Centre provides excellent facilities, further enhancing the schools reputation. 
+The bid, for which TSH Architects prepared scheme designs, was successful and the resulting Sixth Form Centre provides excellent facilities, further enhancing the schools reputation.
 
 The 2050m2, 3 storey building accommodates 200 sixth form students, providing a range of facilities including flexible teaching space , a small lecture theatre/ cinema, dance/ drama studio, science laboratories and a rooftop garden with a contemplation pavilion.
 

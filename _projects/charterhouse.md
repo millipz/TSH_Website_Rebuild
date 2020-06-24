@@ -1,4 +1,5 @@
----title: Charterhouse-Two Boarding Houses
+---
+title: Charterhouse-Two Boarding Houses
 short-title: Charterhouse Boarding Houses
 fileref: charterhouse
 sector: education

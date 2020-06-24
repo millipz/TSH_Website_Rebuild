@@ -34,7 +34,7 @@ pictures:
 
 Set within the leafy surrounds of Rugby School this shared dayhouse provides study rooms for 59 pupils and 2 new 150 seater dining halls for Southfield and Town House, all centred around a shared, landscaped courtyard.
 
-The massing of the triple gabled frontage has been designed to respond to the scale and articulation of adjacent Victorian Gothic Villa�s, whilst the use of polychromatic brickwork aims to create a connection back to William Butterfield's chapel and academic buildings on the main school campus.
+The massing of the triple gabled frontage has been designed to respond to the scale and articulation of adjacent Victorian Gothic Villas, whilst the use of polychromatic brickwork aims to create a connection back to William Butterfield's chapel and academic buildings on the main school campus.
 
 Two lower accommodation wings, help to define the cloistered courtyard, with new 1st floor dining halls for each of the dayhouses to the rear of the site, raised to provide magnificent views out across Caldecott's Piece playing fields.
 

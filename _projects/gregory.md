@@ -1,4 +1,5 @@
----title: St. Gregory the Great Catholic Secondary School
+---
+title: St. Gregory the Great Catholic Secondary School
 short-title: School buildings
 fileref: gregory
 sector: education

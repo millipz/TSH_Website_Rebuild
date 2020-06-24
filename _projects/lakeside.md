@@ -1,4 +1,5 @@
----title: Lakeside-Semi-Detached Private Houses
+---
+title: Lakeside-Semi-Detached Private Houses
 short-title: Lakeside
 fileref: lakeside
 sector: residential

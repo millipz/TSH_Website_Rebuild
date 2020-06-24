@@ -1,4 +1,5 @@
----title: Home Park – Mixed Use Development
+---
+title: Home Park Mixed Use Development
 short-title: Mixed Use Development
 fileref: homepark
 sector: residential
@@ -24,7 +25,7 @@ pictures:
 
 ---
 
-Blenheim Estate owned a farm in the village of Bladon which they asked TSH to look at options to develop.  The collection of agricultural buildings were carefully converted into 9400 ft² of office space.  On the adjacent field, we sited 27 new residential units of 2 to 3 bedrooms including flats, social and private housing. 
+Blenheim Estate owned a farm in the village of Bladon which they asked TSH to look at options to develop.  The collection of agricultural buildings were carefully converted into 9400 ftÂ² of office space.  On the adjacent field, we sited 27 new residential units of 2 to 3 bedrooms including flats, social and private housing.
 
 Although the site was situated in the centre of the village, it provided views form the main road to the parkland of Blenheim Estate beyond.  It was critical to the local planning authority that this vista was maintained therefore massing was located either side of a swath communal parkland through the centre of the site.  A crescent of houses is used to draw the eye towards this vista.
 

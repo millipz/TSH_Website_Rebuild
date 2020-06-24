@@ -1,4 +1,5 @@
----title: Overstone Farm-Residential Masterplan
+---
+title: Overstone Farm-Residential Masterplan
 short-title: Overstone
 fileref: overstone
 sector: residential
@@ -22,7 +23,7 @@ pictures:
 
 ---
 
-Extensive Residential development including retirement living apartments, 70 bed care home and conversion of Farm House and immediate outbuildings to residential development. 
+Extensive Residential development including retirement living apartments, 70 bed care home and conversion of Farm House and immediate outbuildings to residential development.
 
 The deign detail incorporates heritage led design language in order to tie into the historic local character of the site and its immediate environs.
 

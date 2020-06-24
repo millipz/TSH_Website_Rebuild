@@ -1,4 +1,5 @@
----title: The Royal Latin School-Sports Campus
+---
+title: The Royal Latin School-Sports Campus
 short-title: The Royal Latin School
 fileref: royallatin
 sector: education

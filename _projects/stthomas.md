@@ -1,4 +1,5 @@
----title: St. Thomas More Catholic School-Sixth Form Centre
+---
+title: St. Thomas More Catholic School-Sixth Form Centre
 short-title: Sixth Form Centre
 fileref: stthomas
 sector: education
@@ -23,7 +24,7 @@ pictures:
 
 A 2450m2, 3 storey Sixth Form Centre focussed around a communal triple height atrium space and featuring a roof top sports pitch and classroom design to maximise flexibility.
 
-The teaching accommodation includes flexible teaching space, a small lecture theatre/ cinema, dance/ drama studio, science laboratories, art studios and a state of the art C.D.T. design studio and workshop.  
+The teaching accommodation includes flexible teaching space, a small lecture theatre/ cinema, dance/ drama studio, science laboratories, art studios and a state of the art C.D.T. design studio and workshop.
 
 BREEAM EXcellent
 

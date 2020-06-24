@@ -1,4 +1,5 @@
----title: The Sunshine Centre-Day Care Centre
+---
+title: The Sunshine Centre-Day Care Centre
 short-title: Day Centre
 fileref: sunshine
 sector: education

@@ -1,4 +1,5 @@
----title: Mixed Use Development
+---
+title: Mixed Use Development
 short-title: Mixed Use Development
 fileref: adelphi
 sector: residential
@@ -24,4 +25,4 @@ pictures:
 
 ---
 
-TSH were invited to design a “landmark” building on the sitye of a former Gasw holder.  TSH proposed two schemes, each responding to the site’s industrial history whilst also reinforcing the connection between building and a new landscape, with extensive planting to encourage biodiversity.  The different schemes proposed provide office space at ground floor with residential accommodation above.  
+TSH were invited to design a landmark building on the sitye of a former Gasw holder.  TSH proposed two schemes, each responding to the site's industrial history whilst also reinforcing the connection between building and a new landscape, with extensive planting to encourage biodiversity.  The different schemes proposed provide office space at ground floor with residential accommodation above.
