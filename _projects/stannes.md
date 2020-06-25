@@ -17,6 +17,6 @@ pictures:
 
 TSH Architects won an invited competition to develop a Masterplan vision for St. Anne's College, North Oxford Site.  The extensive briefing process identified a number of key college priorities which provided clear aims for TSH Architects design.
 The process identified sites on campus and made recommendations for future building opportunities in order to help the College understand what might be possible.
-The Masterplan identifies extensive opportunities for additions and careful re-organisation of existing campus spaces to align with the College�s current and future needs and will be a key document for strategic decision making on future site developments within the College.
+The Masterplan identifies extensive opportunities for additions and careful re-organisation of existing campus spaces to align with the College's current and future needs and will be a key document for strategic decision making on future site developments within the College.
 
 

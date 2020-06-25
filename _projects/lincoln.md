@@ -28,3 +28,6 @@ Alongside the refurbishment of the external fabric and the internal reconfigurat
 
 Completion: 2020
 
+<iframe id="ytplayer" type="text/html" width="360" height="200"
+  src="https://www.youtube.com/embed/nPpQ4H3c3U0?autoplay=1&origin=http://example.com"
+  frameborder="0"></iframe>
