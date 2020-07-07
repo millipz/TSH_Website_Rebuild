@@ -23,7 +23,7 @@ pictures:
 
 ---
 
-Wishing to expand their boarding facilities, Abingdon School invited TSH architects to enter into a closed design competition for proposals to extend provide the school with new boarding accommodation.
+Wishing to expand their boarding facilities, Abingdon School invited TSH architects to enter into a closed design competition for proposals to provide the school with new boarding accommodation.
 
 TSH offered the School two alternative proposals on two different sites:
 1. An extension to an existing boarding house

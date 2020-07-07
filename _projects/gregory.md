@@ -26,7 +26,7 @@ pictures:
 
 ---
 
-This major project was to provide a brand new Catholic Secondary School in Oxford for the Birmingham Diocesan Schools Commission, merging a school previously split over two sites. The project consisted of 8500m2 new build and 400m2 of refurbishment works.
+This major project was to provide a brand new Catholic Secondary School in Oxford for the Birmingham Diocesan Schools Commission, merging a school previously split over two sites. The project consisted of 8500m2 new build and 400m² of refurbishment works.
 A brief was generated with the school and the DfES based upon their curriculum, religious and social requirements. The New buildings have been designed to join with the existing building and site features to create a school with a variety of different buildings and spaces.
 The scheme has three principle courtyards that provide large open spaces, small sheltered spaces, intimate spaces, social spaces and places for quiet contemplation.
 The prominent building on site, a three storey rotunda, contains a circular courtyard that is the heart of the school and a place for the whole school to congregate for social and religious celebrations. A separate Chapel has been provided and is located and designed to emphasise its importance in a Catholic school.

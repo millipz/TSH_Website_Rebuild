@@ -23,10 +23,6 @@ pictures:
     width: wide
   - url: ../img/projects/estates-8.jpg
     width: wide
-  - url: ../img/projects/estates-9.jpg
-    width: wide
-  - url: ../img/projects/estates-10.jpg
-    width: wide
 
 ---
 

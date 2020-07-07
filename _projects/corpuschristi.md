@@ -19,7 +19,7 @@ pictures:
 ---
 
 Re-development of the existing school site including the demolition of the existing junior school and construction of new teaching classrooms, resource area and dining room/community room.
-The building also provides a new prominent entrance, adjacent to new dining and family room, which has extended schools facility, providing a place for parents and other community groups to meet and hold activities and events. The classrooms face west and enjoy a pleasant outlook onto the school fields.
+The building also provides a new prominent entrance, adjacent to the new dining and family room, which has extended the school's facility, providing a place for parents and other community groups to meet and hold activities and events. The classrooms face west and enjoy a pleasant outlook onto the school fields.
 There is a flexible resource area supporting group and individual learning adjacent to the classrooms. This space and the ancillary accommodation share a low pitched roof, which contrasts with the taller forms of the classroom block and multifunction room, breaking the new building into elements and helping to integrate it with the existing building.
 
 Completed: November 2007

@@ -30,7 +30,7 @@ St Benedict's School is a voluntary-aided, co-educational Catholic high school, 
 
 The bid, for which TSH Architects prepared scheme designs, was successful and the resulting Sixth Form Centre provides excellent facilities, further enhancing the schools reputation.
 
-The 2050m2, 3 storey building accommodates 200 sixth form students, providing a range of facilities including flexible teaching space , a small lecture theatre/ cinema, dance/ drama studio, science laboratories and a rooftop garden with a contemplation pavilion.
+The 2050m², 3 storey building accommodates 200 sixth form students, providing a range of facilities including flexible teaching space , a small lecture theatre/ cinema, dance/ drama studio, science laboratories and a rooftop garden with a contemplation pavilion.
 
 The focal point of the building is a two storey multi-use hall, overlooked by a first floor balcony and the library.
 
