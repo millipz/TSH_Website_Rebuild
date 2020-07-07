@@ -107,6 +107,7 @@ blockquote {
   .navbar-default .navbar-form {
     background-color: rgba(255, 255, 255, 0.9);
   }
+
 }
 
 .navbar-home>li>a {
@@ -495,6 +496,7 @@ hr {
 #Grid .mix {
   display: inline-block;
   margin-bottom: 20px;
+  min-height: 330px;
 }
 
 #Grid ul {
@@ -847,6 +849,11 @@ hr {
     padding-top: 75px;
   }
 
+  #Grid .mix {
+    min-height: none;
+  }
+
+
 }
 
 @media (min-width: 991px) {
@@ -872,6 +879,11 @@ hr {
   .navbar-brand img {
     height: 100px;
   }
+
+  #Grid .mix {
+    min-height: 0px;
+  }
+
 }
 
 @media (min-width: 767px) {
@@ -958,7 +970,7 @@ hr {
   padding-bottom: 25px;
 }
 
-.padh4 {
+.padh1 {
   padding: 20px 0;
 }
 
@@ -979,7 +991,7 @@ hr {
   width: 100%;
 }
 
-.gm-style-iw h4,
+.gm-style-iw h1,
 .gm-style-iw p {
   margin: 0;
   padding: 0;
