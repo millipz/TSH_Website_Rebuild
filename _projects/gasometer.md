@@ -11,8 +11,6 @@ pictures:
     width: wide
   - url: ../img/projects/gasometer-2.jpg
     width: wide
-  - url: ../img/projects/gasometer-3.jpg
-    width: wide
   - url: ../img/projects/gasometer-4.jpg
     width: wide
   - url: ../img/projects/gasometer-5.jpg
