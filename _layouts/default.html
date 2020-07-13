@@ -7,17 +7,22 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{{ page.title }}</title>
 
-    <script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="091e4da1-eec7-4705-a1ef-0c9fb5f1d87f" type="text/javascript" async></script>
+    <script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="091e4da1-eec7-4705-a1ef-0c9fb5f1d87f"
+        type="text/javascript" async></script>
 
-	<!-- Global site tag (gtag.js) - Google Analytics -->
-	<script async data-cookieconsent="statistics" src="https://www.googletagmanager.com/gtag/js?id=UA-169896104-2"></script>
-	<script data-cookieconsent="statistics">
-	window.dataLayer = window.dataLayer || [];
-	function gtag(){dataLayer.push(arguments);}
-	gtag('js', new Date());
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async data-cookieconsent="statistics" src="https://www.googletagmanager.com/gtag/js?id=UA-169896104-2">
+    </script>
+    <script data-cookieconsent="statistics">
+        window.dataLayer = window.dataLayer || [];
 
-	gtag('config', 'UA-169896104-2');
-	</script>
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-169896104-2');
+    </script>
 
     <!-- ****** faviconit.com favicons ****** -->
     <link rel="shortcut icon" href="../faviconit/favicon.ico">
@@ -135,26 +140,7 @@
 
         <!-- Footer -->
 
-        <div id="footer">
-            <hr>
-            <div class="container">
-                <div class="footerz">
-                    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-4">
-                        <img src="../img/RIBAlogo.jpg" class="hidden-xs visible-sm visible-md visible-lg"
-                            alt="RIBA logo">
-                        <img src="../img/RIBAlogo2.jpg" class="visible-xs hidden-sm hidden-md hidden-lg"
-                            alt="RIBA logo">
-                    </div>
-                    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-8">
-                        <ul>
-                            <li>TSH Architects</li>
-                            <li>++44 (0) 1865 861281</li>
-                            <li><a href="mailto:hello@tsharchitects.co.uk">hello@tsharchitects.co.uk</a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
+        {% include footer.html %}
 
         <!-- Include all compiled plugins (below), or include individual files as needed -->
 
