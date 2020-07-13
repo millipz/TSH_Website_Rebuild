@@ -4,7 +4,7 @@ short-title: Charterhouse Boarding Houses
 fileref: charterhouse
 sector: education
 layout: default
-featureimg: img/projects/376-feature.jpg
+featureimg: img/projects/charterhouse-feature.jpg
 
 pictures:
   - url: ../img/projects/charterhouse-1.jpg
