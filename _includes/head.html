@@ -7,34 +7,36 @@
   <meta name="keywords"
     content="architects in oxford, oxford architects, chartered architects, residential architects, commercial architects, education architects, architectural, architecture, oxfordshire, oxford,  reading, berkshire, buckinghamshire, gloucestershire, uk">
 
-    <meta name="twitter:card" content="summary" />
-    <meta name="twitter:site" content="@tsh_architects" />
-    <meta name="twitter:title" content="{{ page.title }}" />
-    <meta name="twitter:description" content="Based in Oxford, TSH Architects specialise in the design of Schools, Boarding Houses and all types of Residential projects from £100k to £15m."/>
-    {% for pic in page.pictures %}
-    {% if forloop.first == true %}
-    <meta name="twitter:image" content="{{ pic.url }}" />
-    {% else %}
-    {% endif %}
-    {% endfor %}
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@tsh_architects" />
+  <meta name="twitter:title" content="{{ page.title }}" />
+  <meta name="twitter:description"
+    content="Based in Oxford, TSH Architects specialise in the design of Schools, Boarding Houses and all types of Residential projects from £100k to £15m." />
+  {% for pic in page.pictures %}
+  {% if forloop.first == true %}
+  <meta name="twitter:image" content="{{ pic.url }}" />
+  {% else %}
+  {% endif %}
+  {% endfor %}
 
   <title>{{ page.title }}</title>
 
   <script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="091e4da1-eec7-4705-a1ef-0c9fb5f1d87f"
-      type="text/javascript" async></script>
+    type="text/javascript" async></script>
 
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script type="text/plain" async data-cookieconsent="statistics" src="https://www.googletagmanager.com/gtag/js?id=UA-169896104-2">
+  <script type="text/plain" async data-cookieconsent="statistics"
+    src="https://www.googletagmanager.com/gtag/js?id=UA-169896104-2">
   </script>
-  <script data-cookieconsent="statistics">
-      window.dataLayer = window.dataLayer || [];
+  <script type="text/plain" data-cookieconsent="statistics">
+    window.dataLayer = window.dataLayer || [];
 
-      function gtag() {
-          dataLayer.push(arguments);
-      }
-      gtag('js', new Date());
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
 
-      gtag('config', 'UA-169896104-2');
+    gtag('config', 'UA-169896104-2');
   </script>
 
   <!-- ****** faviconit.com favicons ****** -->

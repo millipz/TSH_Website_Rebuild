@@ -27,6 +27,3 @@ pictures:
 Extension to and re-cladding of The Sunshine Centre, a thriving family day care centre, in Banbury Oxfordshire.  Extensively top lit and with a distinctive raked ceiling, the extension provides a valuable family room/creche, training room and health visitors room, all designed with the scale and needs of its users at its heart.
 
 The re-clad entrance courtyard ties the new addition in with the existing building and will serves as a generous community meeting point and garden.
-
-
-
