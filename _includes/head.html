@@ -14,7 +14,7 @@
     content="Based in Oxford, TSH Architects specialise in the design of Schools, Boarding Houses and all types of Residential projects from £100k to £15m." />
   {% for pic in page.pictures %}
   {% if forloop.first == true %}
-  <meta name="twitter:image" content="{{ pic.url }}" />
+  <meta name="twitter:image" content="{{ pic.url | absolute_url }}" />
   {% else %}
   {% endif %}
   {% endfor %}
