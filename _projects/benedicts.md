@@ -21,9 +21,6 @@ pictures:
     width: narrow
   - url: ../img/projects/benedicts-7.jpg
     width: narrow
-  - url: ../img/projects/benedicts-7.jpg
-    width: wide
-
 ---
 
 St Benedict's School is a voluntary-aided, co-educational Catholic high school, founded in 1963. Being an 'outstanding school', St. Benedict's was able to apply for a sixth form centre under the presumption process to the Learning and Skills Council (LSC) and Local Authority.
