@@ -3,23 +3,37 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description"
-    content="Based in Oxford, TSH Architects specialise in the design of Schools, Boarding Houses and all types of Residential projects from £100k to £15m.">
+    content="{{ content | strip_html | strip_newlines }}">
   <meta name="keywords"
     content="architects in oxford, oxford architects, chartered architects, residential architects, commercial architects, education architects, architectural, architecture, oxfordshire, oxford,  reading, berkshire, buckinghamshire, gloucestershire, uk">
 
+  <!-- FB Graph -->
+  <meta property="og:url"                content="https://tsharchitects.co.uk/{{ page.url | replace:'index.html',''}}" />
+  <meta property="og:type"               content="website" />
+  <meta property="og:title"              content="{{ page.title }}"" />
+  <meta property="og:description"        content="{{ content | strip_html | strip_newlines }}"/>
+  {% if page.layout != "default" %}
+  <meta property="og:image" content="https://tsharchitects.co.uk/img/site-preview.jpg" />
+  {% else %}
+  <meta property="og:image" content="https://tsharchitects.co.uk/img/projects/{{ page.fileref }}-1.jpg" />
+  {% endif %}
+
+  <!-- Twitter Cards -->
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@tsh_architects" />
   <meta name="twitter:title" content="{{ page.title }}" />
-  <meta name="twitter:description"
-    content="Based in Oxford, TSH Architects specialise in the design of Schools, Boarding Houses and all types of Residential projects from £100k to £15m." />
-  {% for pic in page.pictures %}
-  {% if forloop.first == true %}
-  <meta name="twitter:image" content="{{ pic.url | absolute_url }}" />
+  <meta name="twitter:description" content="{{ content | strip_html | strip_newlines }}" />
+  {% if page.layout != "default" %}
+  <meta name="twitter:image" content="https://tsharchitects.co.uk/img/site-preview.jpg" />
   {% else %}
+  <meta name="twitter:image" content="https://tsharchitects.co.uk/img/projects/{{ page.fileref }}-1.jpg" />
   {% endif %}
-  {% endfor %}
 
+  {% if page.layout != "default" %}
+  <title>{{ page.title }} - TSH Architects</title>
+  {% else %}
   <title>{{ page.title }}</title>
+  {% endif %}
 
   <script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="091e4da1-eec7-4705-a1ef-0c9fb5f1d87f"
     type="text/javascript" async></script>
