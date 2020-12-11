@@ -34,7 +34,7 @@ The project comprises 2 distinct elements an 'L' Shaped Academic centre and Oval
 
 The academic centre provides state of the art learning facilities for the school's students with café, library and teaching facilities.  The building's top floor is a dramatic sixth form study space with exposed oak glulam diagrid roof structure and expansive views out to the schools central Quad.
 
-Alongside this sits the new stone clad, 'Olivier' hall which replaces a demolished 1970s hall, with a magnificent space able to accommodation an audience of up to 1000 for a multitude of uses.
+Alongside this sits the new stone clad, 'Olivier' hall which replaces a demolished 1970s hall, with a magnificent space able to accommodate an audience of up to 1000 for a multitude of uses.
 
 > Nick listened very carefully to what our requirements were...he produced the perfect design that has resulted in the provision of the best possible building that fits extremely comfortably into its location.
 > -- <cite>Stephen Withers-Green, Former Bursar, St. Edward's School</cite>
