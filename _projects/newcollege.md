@@ -23,5 +23,3 @@ The schools existing 1960's gym building was not big enough to support the curre
 Client: The Warden and Fellows of New College
 
 Completed: November 2007
-
-
