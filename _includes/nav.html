@@ -1,3 +1,5 @@
+        {% assign current = page.url | downcase | split: '/' %}
+        
         <nav class="navbar navbar-default navbar-fixed-top navDrop" role="navigation">
             <div class="container">
                 <!-- Brand and toggle get grouped for better mobile display -->
@@ -15,10 +17,11 @@
                 <!-- Collect the nav links, forms, and other content for toggling -->
                 <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                     <ul class="nav navbar-nav navbar-right">
-                        <li {% if page.url == '/projects-page.html' %} class='active' {% endif %}><a href="../projects-page">Projects</a></li>
-                        <li {% if page.url == '/news.html' %} class='active' {% endif %}><a href="../news">News</a></li>
-                        <li {% if page.url == '/about.html' %} class='active' {% endif %}><a href="../about">About</a></li>
-                        <li {% if page.url == '/contact.html' %} class='active' {% endif %}><a href="../contact">Contact</a>
+                        <li {% if current[1] == 'projects-page' %} class='active' {% endif %}><a
+                                href="../projects-page">Projects</a></li>
+                        <li {% if current[1] == 'news' %} class='active' {% endif %}><a href="../news">News</a></li>
+                        <li {% if current[1] == 'about' %} class='active' {% endif %}><a href="../about">About</a></li>
+                        <li {% if current[1] == 'contact' %} class='active' {% endif %}><a href="../contact">Contact</a>
                         </li>
                     </ul>
                 </div><!-- /.navbar-collapse -->
