@@ -3,5 +3,5 @@ collections:
     output: false
   projects:
     output: true
-site.url: "https://tsharchitects.co.uk"
+site.url: "http://milesjphillips.com/TSH_Website_Rebuild/"
 site.production_url: "https://tsharchitects.co.uk"
