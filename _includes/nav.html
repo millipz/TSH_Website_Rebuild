@@ -17,8 +17,7 @@
                 <!-- Collect the nav links, forms, and other content for toggling -->
                 <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                     <ul class="nav navbar-nav navbar-right">
-                        {{ current | jsonify }}
-                        <li {% if current[1] == 'projects' %} class='active' {% endif %}><a href="../projects">Projects</a></li>
+                        <li {% if current[1] == 'projects-page' %} class='active' {% endif %}><a href="../projects-page">Projects</a></li>
                         <li {% if current[1] == 'news' %} class='active' {% endif %}><a href="../news">News</a></li>
                         <li {% if current[1] == 'about' %} class='active' {% endif %}><a href="../about">About</a></li>
                         <li {% if current[1] == 'contact' %} class='active' {% endif %}><a href="../contact">Contact</a>
