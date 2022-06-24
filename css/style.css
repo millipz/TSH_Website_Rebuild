@@ -205,6 +205,19 @@ blockquote {
   transform: rotate(-45deg);
 }
 
+
+.underbanner {
+  position: absolute;
+  margin-top: 100px;
+  background-color: rgba(255, 255, 255, 0.6);
+  width: 100%;
+  z-index: 400;
+}
+
+.underbanner p{
+  text-align: center;
+}
+
 /*  -webkit-transition: transform 0.3s ease 0s, opacity 0.2s ease 0s;   Chrome 1-25, Safari 3.2+ */
 
 
