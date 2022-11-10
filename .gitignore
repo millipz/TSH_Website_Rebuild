@@ -11,3 +11,4 @@ vendor/
 # Ignore thumbnails
 img/Thumbs.db
 img/projects/Thumbs.db
+.DS_Store
