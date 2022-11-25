@@ -7,7 +7,7 @@ $(function() {
 	
     $('#Grid').mixItUp({
         load: {
-            sort: "random"
+            sort: "default"
         }
     });
 });
