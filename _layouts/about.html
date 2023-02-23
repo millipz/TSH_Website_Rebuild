@@ -19,7 +19,7 @@
 					</div>
 					<div class="propad col-lg-5 col-md-6 col-sm-6 col-xs-12">
 						<p><strong>TSH Architects was formed in 1991 by Graeme Towle, Andrew Spurring and Nick
-								Hardy. Now led by Nick Hardy.</strong></p>
+								Hardy. Now led by Nick Hardy, Sarah Firth, Toby Martin, and Miles Phillips.</strong></p>
 						<p>The practice has established a deserved reputation for producing innovative design
 							solutions, largely in the education and residential sectors.</p>
 						<p>The staff at TSH Architects work hard, but like to play as well, so every winter the
@@ -33,14 +33,12 @@
 					<div class="row">
 						{% for member in site.staff %}
 						{% if member.role == "Director" %}
-						<div class=" col-lg-12 col-md-12 col-sm-12 col-xs-12">
 							<div class="pad col-lg-3 col-md-4 col-sm-6 col-xs-12">
 								<div><img class="img-responsive" src="{{ member.picture }}"></div>
 								<p><strong>{{ member.name }}<br>
 										{{ member.role }}</strong></p>
 								<p class="qualifications">{{ member.qualifications }}</p>
 							</div>
-						</div>
 						{% endif %}
 						{% endfor %}
 					</div>
